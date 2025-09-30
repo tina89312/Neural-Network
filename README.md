@@ -1,2 +1,2 @@
 # Neural-Network
-This project is a foundational implementation of a neural network built from scratch in Python, without relying on external deep learning libraries like TensorFlow or PyTorch. The goal is to fully understand the core mechanisms of neural networks, including forward and backward propagation, activation functions, and gradient descent.
+[成果簡報](https://docs.google.com/presentation/d/1ZQglwATnXVF2Jlv645jrf2MVXaFE3Q5B/edit?usp=drive_link&ouid=111309069608702062055&rtpof=true&sd=true)
